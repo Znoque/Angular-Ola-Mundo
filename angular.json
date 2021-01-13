@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular-Ola-Mundo"
+    }
+  },
+  "defaultProject": "Angular-Ola-Mundo",
+  "cli": {
+    "analytics": false
+  }
 }
